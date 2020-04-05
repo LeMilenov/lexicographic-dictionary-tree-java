@@ -1,4 +1,4 @@
-package lab5;
+package lexicoTree;
 
 /**
  * Objet contenant le mot et une définition

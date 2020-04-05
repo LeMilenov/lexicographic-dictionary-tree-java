@@ -1,4 +1,4 @@
-package lab5;
+package lexicoTree;
 
 import java.awt.event.ActionListener;
 import java.util.ArrayList;

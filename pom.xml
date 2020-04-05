@@ -4,11 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.log100.lab5</groupId>
-  <artifactId>lab5</artifactId>
+  <groupId>com.log100.lexicoTree</groupId>
+  <artifactId>lexicoTree</artifactId>
   <version>1.0</version>
 
-  <name>lab5</name>
+  <name>lexicoTree</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -37,7 +37,7 @@
           <archive>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>lab5.Main</mainClass>
+              <mainClass>lexicoTree.Main</mainClass>
             </manifest>
           </archive>
         </configuration>

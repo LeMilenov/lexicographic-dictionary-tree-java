@@ -4,8 +4,15 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "lab5.Main",
+            "mainClass": "lexicoTree.Main",
             "projectName": "lab5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "lexicoTree.Main",
+            "projectName": "lexicoTree"
         }
     ]
 }

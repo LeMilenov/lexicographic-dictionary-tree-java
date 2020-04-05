@@ -1,4 +1,4 @@
-package lab5;
+package lexicoTree;
 
 import javax.swing.DefaultListModel;
 import javax.swing.JButton;

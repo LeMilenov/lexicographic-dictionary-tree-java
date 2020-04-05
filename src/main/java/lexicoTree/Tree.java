@@ -1,4 +1,4 @@
-package lab5;
+package lexicoTree;
 import java.util.ArrayList;
 
 /**
